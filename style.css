@@ -9,6 +9,37 @@ body{
     transition: .4s;
 }
 
+h1{
+    display: flex;
+    align-content: center;
+    padding-right:20px;
+    margin-right: -500px;
+
+    
+
+    font-size: 50px;
+    
+    color: black;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+
+    display: flex;
+    align-content: center;
+    padding-left: 200px;
+
+    font-size: 50px;
+   
+    color: white;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    
+}
+
 
 .input{
     visibility: hidden;
